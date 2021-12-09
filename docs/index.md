@@ -1,7 +1,7 @@
 
 - [NEOVAS_weights_100_stride_3](results/NEOVAS_weights_100_stride_3/report/index.html)
 - [NEOVAS_red_channel](results/NEOVAS_red_channel/report/index.html)
-- [NEOVAS_weights_100_stride_32_red_channel_clahe](results/NEOVAS_weights_100_stride_32_red_channel_clahe/report/index.html)
+- [NEOVAS_weights_100_stride_3_red_channel_clahe](results/NEOVAS_weights_100_stride_3_red_channel_clahe/report/index.html)
 
 <!---
 ## Welcome to GitHub Pages
