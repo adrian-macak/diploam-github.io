@@ -1,0 +1,5 @@
+"Image","Label","Prediction_Fine","Prediction_Coarse","Prediction_Fine_and_Coarse_Accuracy","IoU"
+"NEOVAS/test/images/1_2.jpg","NEOVAS/test/labels/1_2_label.png","pred/model_NEOVAS_data_NEOVAS/1_2fine.png","pred/model_NEOVAS_data_NEOVAS/1_2coarse.png","0.985/0.982","0.4342847075405215"
+"NEOVAS/test/images/2_3.jpg","NEOVAS/test/labels/2_3_label.png","pred/model_NEOVAS_data_NEOVAS/2_3fine.png","pred/model_NEOVAS_data_NEOVAS/2_3coarse.png","0.895/0.893","0.14864178346233153"
+"NEOVAS/test/images/1_4.jpg","NEOVAS/test/labels/1_4_label.png","pred/model_NEOVAS_data_NEOVAS/1_4fine.png","pred/model_NEOVAS_data_NEOVAS/1_4coarse.png","0.961/0.959","0.3047485065345485"
+"NEOVAS/test/images/2_2.jpg","NEOVAS/test/labels/2_2_label.png","pred/model_NEOVAS_data_NEOVAS/2_2fine.png","pred/model_NEOVAS_data_NEOVAS/2_2coarse.png","0.899/0.895","0.1574362736108564"
